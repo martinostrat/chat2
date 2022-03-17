@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "Jane Smith",
+        "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "date": "2022-03-17T11:32:20.123Z"
+    },
+    {
+        "id": 2,
+        "username": "John Smith",
+        "message": "t to make a type specimen book. It has survived not only five centuries, but also the l",
+        "date": "2022-03-17T11:35:20.123Z"
+    },
+    {
+        "id": 3,
+        "username": "Peeter Paan",
+        "message": "t is a long established fact that a reader will be distracted by the readable content of a page",
+        "date": "2022-03-17T11:36:20.123Z"
+    },
+    {
+        "id": 4,
+        "username": "Test Nimi",
+        "message": "of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop p",
+        "date": "2022-03-17T11:40:20.123Z"
+    },
+    {
+        "id": 5,
+        "username": "Mati Maasikas",
+        "message": "e are many variations of passages of Lorem Ipsum available, but the majority have",
+        "date": "2022-03-17T11:41:20.123Z"
+    }
+]
